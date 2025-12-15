@@ -1,2 +1,14 @@
-# Ola-Uber-Ride-Booking-Cancellation-Analysis-SQL-Project-
-A complete end-to-end SQL project analyzing ride bookings, cancellation patterns, revenue performance, customer behavior, and operational efficiency using real-world-style data from Ola &amp; Uber ride platforms.
+This project focuses on cleaning, transforming, and analyzing ride booking data using SQL.
+It answers key business questions such as:
+
+Why do rides get cancelled?
+
+Which routes generate the most revenue?
+
+Which locations cause operational inefficiencies?
+
+Do driver/customer ratings affect cancellations?
+
+Which vehicle types perform the best financially?
+
+It is built using MySQL and demonstrates strong SQL skills including data cleaning, feature engineering, aggregate analysis, and performance insights.
